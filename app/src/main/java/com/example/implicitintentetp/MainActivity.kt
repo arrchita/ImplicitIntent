@@ -5,7 +5,8 @@ import android.net.Uri
 import android.os.Bundle
 import android.widget.EditText
 import androidx.appcompat.app.AppCompatActivity
-import com.example.implicitintentetp.R
+
+import com.example.intentetp.R
 
 class MainActivity : AppCompatActivity() {
 
