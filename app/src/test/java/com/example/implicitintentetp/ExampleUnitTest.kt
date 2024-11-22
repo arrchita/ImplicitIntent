@@ -1,4 +1,4 @@
-package com.example.intentetp
+package com.example.implicitintentetp
 
 import org.junit.Test
 
